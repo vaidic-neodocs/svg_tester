@@ -36,8 +36,8 @@
     </text><text transform="translate(1685.76 2406.46)"
         style="fill:#fff; font-family:Metropolis-Medium, Metropolis; font-size:70px; font-weight:500;">
         <tspan x="150" y="0">time_placeholder_long</tspan>
-        <tspan x="150" y="0">time_placeholder_short</tspan>
-        <tspan x="450" y="0"></tspan>
+        <tspan x="450" y="0">time_placeholder_short</tspan>
+
 
     </text><text transform="translate(2212.57 2313.72)"
         style="fill:#fff; font-family:Metropolis-Bold, Metropolis; font-size:70px; font-weight:700;">

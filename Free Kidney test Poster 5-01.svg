@@ -15,7 +15,9 @@
         <tspan x="0" y="0">Date:</tspan>
     </text><text transform="translate(1899.03 2152.04)"
         style="font-family:Metropolis-Medium, Metropolis; font-size:70px; font-weight:500;">
-        <tspan x="0" y="0">date_placeholder</tspan>
+        <tspan x="0" y="0">date_placeholder_long</tspan>
+        <tspan x="250" y="0">date_placeholder_short</tspan>
+
     </text><text transform="translate(1764.14 3337.22)"
         style="fill:#fff; font-family:Metropolis-Medium, Metropolis; font-size:70px; font-weight:500;">
         <tspan x="150" y="0">phone_number_placeholder</tspan>
@@ -36,7 +38,9 @@
         <tspan x="0" y="0">Address:</tspan>
     </text><text transform="translate(1681.47 2410.27)"
         style="font-family:Metropolis-Medium, Metropolis; font-size:70px; font-weight:500;">
-        <tspan x="0" y="0">time_placeholder</tspan>
+        <tspan x="150" y="0">time_placeholder_long</tspan>
+        <tspan x="450" y="0">time_placeholder_short</tspan>
+
     </text><text transform="translate(2208.28 2317.53)"
         style="font-family:Metropolis-Bold, Metropolis; font-size:70px; font-weight:700;">
         <tspan x="0" y="0">Time:</tspan>
