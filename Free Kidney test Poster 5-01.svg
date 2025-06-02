@@ -18,17 +18,17 @@
         <tspan x="0" y="0">date_placeholder</tspan>
     </text><text transform="translate(1764.14 3337.22)"
         style="fill:#fff; font-family:Metropolis-Medium, Metropolis; font-size:70px; font-weight:500;">
-        <tspan x="100" y="0">phone_number_placeholder</tspan>
+        <tspan x="150" y="0">phone_number_placeholder</tspan>
     </text><text transform="translate(1964.27 3236.26)"
         style="fill:#fff; font-family:Metropolis-Bold, Metropolis; font-size:70px; font-weight:700;">
         <tspan x="0" y="0">Contact us:</tspan>
     </text><text transform="translate(1672.65 2724.38)"
         style="font-family:Metropolis-Medium, Metropolis; font-size:64px; font-weight:500;">
-        <tspan x="0" y="0">address_placeholder_1</tspan>
-        <tspan x="0" y="77">address_placeholder_2</tspan>
-        <tspan x="0" y="154">address_placeholder_3</tspan>
-        <tspan x="0" y="231">address_placeholder_4</tspan>
-        <tspan x="0" y="308">address_placeholder_5</tspan>
+        <tspan x="0" y="0">address_placeholder_0</tspan>
+        <tspan x="0" y="77">address_placeholder_1</tspan>
+        <tspan x="0" y="154">address_placeholder_2</tspan>
+        <tspan x="0" y="231">address_placeholder_3</tspan>
+        <tspan x="0" y="308">address_placeholder_4</tspan>
 
 
     </text><text transform="translate(2093.34 2620.58)"
