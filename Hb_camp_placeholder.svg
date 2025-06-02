@@ -981,7 +981,8 @@
                                 <text id="11:12 PM" fill="#23282F" xml:space="preserve" style="white-space: pre"
                                     font-family="Metropolis" font-size="73.2183" font-weight="bold"
                                     letter-spacing="0em">
-                                    <tspan x="1330.97" y="1308.15">time_placeholder</tspan>
+                                    <tspan x="1330.97" y="1308.15">time_placeholder_long</tspan>
+                                    <tspan x="1330.97" y="1308.15">time_placeholder_short</tspan>
                                 </text>
                             </g>
                         </g>
