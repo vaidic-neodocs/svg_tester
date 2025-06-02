@@ -25,10 +25,12 @@
         <tspan x="0" y="0">Time:</tspan>
     </text><text transform="translate(134.75 1990.99)"
         style="fill:#fff; font-family:Metropolis-Medium, Metropolis; font-size:70px; font-weight:500;">
-        <tspan x="0" y="0">date_placeholder</tspan>
+        <tspan x="0" y="0">date_placeholder_long</tspan>
+        <tspan x="0" y="0">date_placeholder_short</tspan>
     </text><text transform="translate(720.19 1990.99)"
         style="fill:#fff; font-family:Metropolis-Medium, Metropolis; font-size:70px; font-weight:500;">
-        <tspan x="0" y="0">time_placeholder</tspan>
+        <tspan x="0" y="0">time_placeholder_long</tspan>
+        <tspan x="0" y="0">time_placeholder_short</tspan>
     </text>
     <image width="225" height="225" transform="translate(835.12 2911.07) scale(1.31)"
         xlink:href="qr_code_placeholder" />
