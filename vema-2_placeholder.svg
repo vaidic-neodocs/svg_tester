@@ -2591,7 +2591,7 @@
         </g>
     </g>
     <g class="qv">
-        <image width="3552" height="5328" transform="translate(685.45 1232.39) scale(.31)" href="image_placeholder">
+        <image width="3552" height="5328" transform="translate(685.45 0)" href="image_placeholder">
         </image>
 
     </g>
@@ -2661,7 +2661,7 @@
         <tspan x="409.91" y="0">ed </tspan>
         <tspan class="ir" x="564.09" y="0">f</tspan>
         <tspan class="np" x="601.43" y="0">or</tspan>
-    </text><text class="ju" transform="translate(1039.45 2462.91)">
+    </text><text class="ju" transform="translate(967.5 2462.19)">
         <tspan x="0" y="0">hospital_placeholder</tspan>
     </text><text class="oo" transform="translate(659.94 840.9)">
         <tspan x="0" y="0">Hemoglobin | Urine Albumin Creatinine Ratio</tspan>

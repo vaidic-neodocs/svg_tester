@@ -3918,7 +3918,7 @@
     <rect class="ka" x="812.18" y="2941.96" width="855.64" height="122.51" rx="23.98" ry="23.98" />
     <g class="rz">
 
-        <image width="3552" height="5328" transform="translate(682.01 1234.74) scale(.31)" href="image_placeholder" />
+        <image width="3552" height="5328" transform="translate(682.01 0)" href="image_placeholder" />
     </g><text class=" is" transform="translate(893.16 362.33)">
         <tspan x="0" y="0">Get Tested For</tspan>
     </text><text class="pq" transform="translate(840.62 3426.82)">
@@ -3926,7 +3926,7 @@
         <tspan class="uh" x="40.55" y="0">our</tspan>
         <tspan class="xp" x="149.14" y="0"> </tspan>
         <tspan x="165.44" y="0">Ally in CKD Journey</tspan>
-    </text><text class="ln" transform="translate(1040.78 2486.32)">
+    </text><text class="ln" transform="translate(968.82 2486.6)">
         <tspan x="0" y="0">hospital_placeholder</tspan>
     </text><text class="kb" transform="translate(127.3 2691.49) rotate(.4)">
         <tspan x="0" y="0">Date:</tspan>
