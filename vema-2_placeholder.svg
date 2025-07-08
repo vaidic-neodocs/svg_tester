@@ -2591,7 +2591,8 @@
         </g>
     </g>
     <g class="qv">
-        <image width="100%" height="100%" preserveAspectRatio="xMidYMid slice" href="image_placeholder" />
+        <image width="100%" height="100%" preserveAspectRatio="none" transform="translate(850.01 1234.74) scale(.31)"
+            href="image_placeholder" />
     </g>
     <g class="ld">
         <g class="id">
